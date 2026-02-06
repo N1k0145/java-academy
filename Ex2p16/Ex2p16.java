@@ -25,7 +25,7 @@ public class Ex2p16{
 		}else if(y > x){
 			System.out.println(y +" is larger");
 		}else{
-			System.out.println("These number are esqual");
+			System.out.println("These number are equal");
 		}
 		
 	}
