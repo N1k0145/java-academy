@@ -28,6 +28,21 @@ public class Ex2p17{
 		
 		media = (a + b + c) / 3;
 		
+		System.out.println("SOMA = " +soma);
+		
+		System.out.println("MÉDIA = " +media);
+		
+		System.out.println("PRODUTO = " +produto);
+		
+		
+		if (a < b and a < c){
+			System.out.println("O menor numero é: " +a);
+		}else if(b < a amd b < c){
+			System.out.println("O menor numero é: " +b);
+		}else {
+			System.out.println("O menor numero é: " +c);
+		}
+		
 		if (a > b and a > c){
 			System.out.println("O maior numero é: " +a);
 		}else if(b > a amd b > c){
@@ -35,4 +50,6 @@ public class Ex2p17{
 		}else {
 			System.out.println("O maior numero é: " +c);
 		}
+		
+		sc.close();		
 }
