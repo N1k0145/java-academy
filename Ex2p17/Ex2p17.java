@@ -52,4 +52,5 @@ public class Ex2p17{
 		}
 		
 		sc.close();		
+	}
 }
