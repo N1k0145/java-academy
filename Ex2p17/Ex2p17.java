@@ -28,7 +28,11 @@ public class Ex2p17{
 		
 		media = (a + b + c) / 3;
 		
-		if (){
+		if (a > b and a > c){
+			System.out.println("O maior numero é: " +a);
+		}else if(b > a amd b > c){
+			System.out.println("O maior numero é: " +b);
+		}else {
+			System.out.println("O maior numero é: " +c);
 		}
-	}
 }
