@@ -35,17 +35,17 @@ public class Ex2p17{
 		System.out.println("PRODUTO = " +produto);
 		
 		
-		if (a < b and a < c){
+		if ((a < b) and (a < c)){
 			System.out.println("O menor numero é: " +a);
-		}else if(b < a amd b < c){
+		}else if((b < a) and (b < c)){
 			System.out.println("O menor numero é: " +b);
 		}else {
 			System.out.println("O menor numero é: " +c);
 		}
 		
-		if (a > b and a > c){
+		if ((a > b) and (a > c)){
 			System.out.println("O maior numero é: " +a);
-		}else if(b > a amd b > c){
+		}else if((b > a) and (b > c)){
 			System.out.println("O maior numero é: " +b);
 		}else {
 			System.out.println("O maior numero é: " +c);
